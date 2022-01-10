@@ -1,0 +1,14 @@
+
+.body-bg{
+    width: 80%;
+    height: fit-content;
+    margin: auto;
+    background-color: aqua;
+}
+.blog{
+    width: 40%;
+    height: 200px;
+    border: 2px solid black;
+    overflow: scroll;
+overflow-x: hidden;
+}
